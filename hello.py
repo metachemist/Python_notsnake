@@ -1,0 +1,5 @@
+print("hello")
+x = input("what is x?")
+y = input("what is y?")
+print(x)
+print(y)
