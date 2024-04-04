@@ -1,3 +1,3 @@
-<h1>Practice sheet of python <h1>
-<br> Here you will find codes covering the basic concepts of python
-<br> Author: Hafsa Shahid
+<h1>Practice sheet of python<h1>
+<p> Here you will find codes covering the basic concepts of python</p>
+<p>Author: Hafsa Shahid</p>
